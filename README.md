@@ -111,7 +111,7 @@ public class VishnuShankarPathak {
 
 An expense tracking and analysis application with machine-learning-based expense categorization and budgeting insights.
 
-**Tech Stack:** React • Spring Boot • MongoDB • Python • Flask • Machine Learning
+**Tech Stack:** Java • Spring Boot • React •  MongoDB • Python • Flask • REST APIs
 
 [![Repository](https://img.shields.io/badge/VIEW_SOURCE-181717?style=for-the-badge&logo=github)](https://github.com/vishnup2003/Personal-Finance-Ai-Analyzer)
 
@@ -121,7 +121,7 @@ An expense tracking and analysis application with machine-learning-based expense
 
 A deep-learning application that analyzes leaf images to identify potential plant diseases.
 
-**Tech Stack:** Python • TensorFlow • Keras • CNN • Streamlit
+**Tech Stack:** Python • TensorFlow • Keras • CNN • Streamlit • NumPy
 
 [![Repository](https://img.shields.io/badge/VIEW_SOURCE-181717?style=for-the-badge&logo=github)](https://github.com/vishnup2003/Leaf-Scan)
 
@@ -131,7 +131,7 @@ A deep-learning application that analyzes leaf images to identify potential plan
 
 A Java backend project for exploring application development and backend functionality.
 
-**Tech Stack:** Java
+**Tech Stack:** Java • Spring Boot • PostgreSQL • Redis • REST APIs • React Native
 
 [![Repository](https://img.shields.io/badge/VIEW_SOURCE-181717?style=for-the-badge&logo=github)](https://github.com/vishnup2003/train-tracker-backend)
 
