@@ -1,3 +1,18 @@
+<!-- ========== HEADER ========== -->
+
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:805AD5,100:97266D&height=180&section=header&text=Vishnu%20Shankar%20Pathak&fontSize=42&fontColor=ffffff&fontAlignY=42&desc=Java%20%7C%20Spring%20Boot%20%7C%20AI%2FML&descSize=20&descAlignY=65" width="100%" alt="Vishnu Shankar Pathak banner"/>
+
+<br/>
+
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=25&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&height=55&lines=Building+Scalable+Applications;Java+%7C+Spring+Boot+Developer;Exploring+AI+%26+Machine+Learning;Always+Learning+Something+New" alt="Animated typing tagline"/>
+</a>
+
+</div>
+
 
 <div align="center">
 
@@ -18,23 +33,6 @@
 </a>
 
 </div>
-
-<!-- ========== HEADER ========== -->
-
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:805AD5,100:97266D&height=180&section=header&text=Vishnu%20Shankar%20Pathak&fontSize=42&fontColor=ffffff&fontAlignY=42&desc=Java%20%7C%20Spring%20Boot%20%7C%20AI%2FML&descSize=20&descAlignY=65" width="100%" alt="Vishnu Shankar Pathak banner"/>
-
-<br/>
-
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=25&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&height=55&lines=Building+Scalable+Applications;Java+%7C+Spring+Boot+Developer;Exploring+AI+%26+Machine+Learning;Always+Learning+Something+New" alt="Animated typing tagline"/>
-</a>
-
-</div>
-
-
 ---
 
 ## 👨‍💻 About Me
