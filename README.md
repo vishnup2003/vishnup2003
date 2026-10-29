@@ -28,9 +28,7 @@
 <a href="https://portfolio-vishnup2003.vercel.app/">
   <img src="https://img.shields.io/badge/PORTFOLIO-Visit%20My%20Website-10B981?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit my portfolio"/>
 </a>
-
 <br/><br/>
-
 <!-- 🤝 Social Links -->
 <a href="https://github.com/vishnup2003">
   <img src="https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
@@ -207,7 +205,9 @@ Hands-on practice with Java and Spring fundamentals through training projects.
 <br/><br/>
 
 <!-- Most Used Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishnup2003&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="70%" alt="Vishnu's Most Used Languages"/>
+
+<!-- Most Used Languages -->
+<img src="https://ghstats.dev/api/card?username=vishnup2003&theme=tokyonight&layout=compact&max_langs=8" width="70%" alt="Vishnu's Most Used Languages"/>
 
 <br/><br/>
 
