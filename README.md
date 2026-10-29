@@ -196,32 +196,35 @@ Hands-on practice with Java and Spring fundamentals through training projects.
 
 ---
 
+
 ## 📊 GitHub Statistics
 
 <div align="center">
 
-<img src="https://ghstats.dev/api/card?username=vishnup2003&theme=tokyonight" width="70%" alt="GitHub Statistics"/>
+<!-- GitHub Statistics -->
+<img src="https://ghstats.dev/api/card?username=vishnup2003&theme=tokyonight" width="70%" alt="Vishnu's GitHub Statistics"/>
 
 <br/><br/>
 
-<img src="https://ghstats.dev/api/card?username=vishnup2003&theme=tokyonight&layout=compact&max_langs=8" width="70%" alt="GitHub Languages"/>
+<!-- Most Used Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishnup2003&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="70%" alt="Vishnu's Most Used Languages"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com/?user=vishnup2003&theme=tokyonight&hide_border=true" width="70%" alt="GitHub Contribution Streak"/>
+<!-- GitHub Contribution Streak -->
+<img src="https://streak-stats.demolab.com/?user=vishnup2003&theme=tokyonight&hide_border=true" width="70%" alt="Vishnu's GitHub Contribution Streak"/>
 
 </div>
+
 
 ---
 
 ## 🎓 Certifications & Learning
 
-- Java and Spring development
-- Python and machine learning
-- Database management systems
-- AI/ML projects and practical implementation
-
-*Add verified certification names and credential links here as applicable.*
+• AWS Cloud Practitioner Essentials– AWS– Jan 2025
+• AWS Academy Graduate: Introduction to Cloud– Semester 1– AWS Academy– Jan 2025
+• Yuva AI for All– NASSCOM FutureSkills Prime– Dec 2025
+• Campus Ambassador BECon’26 IIT DELHI
 
 ---
 
