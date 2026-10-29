@@ -1,24 +1,19 @@
 
 <!-- ========== HEADER ========== -->
 
+
 <div align="center">
 
-# Hi, I'm Vishnu Shankar Pathak 👋
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:805AD5,100:97266D&height=180&section=header&text=Vishnu%20Shankar%20Pathak&fontSize=42&fontColor=ffffff&fontAlignY=42&desc=Java%20%7C%20Spring%20Boot%20%7C%20AI%2FML&descSize=20&descAlignY=65" width="100%" alt="Vishnu Shankar Pathak banner"/>
 
-### Java Developer | Spring Boot | AI/ML Enthusiast
+<br/>
 
-Building practical software solutions with clean code and thoughtful design.
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,100:EC4899&height=4" width="100%" alt="Gradient divider"/>
-
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-</p>
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=25&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&height=55&lines=Building+Scalable+Applications;Java+%7C+Spring+Boot+Developer;Exploring+AI+%26+Machine+Learning;Always+Learning+Something+New" alt="Animated typing tagline"/>
+</a>
 
 </div>
+
 
 ---
 
