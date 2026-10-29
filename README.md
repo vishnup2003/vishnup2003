@@ -1,38 +1,49 @@
-<!-- ========== HEADER ========== -->
-
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:805AD5,100:97266D&height=180&section=header&text=Vishnu%20Shankar%20Pathak&fontSize=42&fontColor=ffffff&fontAlignY=42&desc=Java%20%7C%20Spring%20Boot%20%7C%20AI%2FML&descSize=20&descAlignY=65" width="100%" alt="Vishnu Shankar Pathak banner"/>
+<!-- Animated Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:164E63,100:7C3AED&height=210&section=header&text=Vishnu%20Shankar%20Pathak&fontSize=43&fontColor=FFFFFF&animation=twinkling&fontAlignY=35&desc=Java%20Developer%20%7C%20Spring%20Boot%20%7C%20AI%2FML&descAlignY=55&descSize=19" width="100%" alt="Vishnu Shankar Pathak header"/>
+
+<!-- Animated Typing Text -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=22D3EE&center=true&vCenter=true&width=750&height=55&lines=Java+%26+Spring+Boot+Developer+%F0%9F%9A%80;Building+REST+APIs+%26+Backend+Applications;Exploring+Artificial+Intelligence+%26+ML+%F0%9F%A4%96;Turning+Ideas+Into+Practical+Projects;Always+Learning.+Always+Building.+%F0%9F%92%BB" alt="Animated typing introduction"/>
 
 <br/>
 
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=25&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&height=55&lines=Building+Scalable+Applications;Java+%7C+Spring+Boot+Developer;Exploring+AI+%26+Machine+Learning;Always+Learning+Something+New" alt="Animated typing tagline"/>
-</a>
+<!-- Profile Picture -->
+<img src="https://github.com/vishnup2003.png" width="145" alt="Vishnu's GitHub profile picture"/>
 
-</div>
+<br/><br/>
 
-
-<div align="center">
-
-<a href="https://www.java.com/">
+<!-- Technology Badges -->
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-</a>
-<a href="https://spring.io/projects/spring-boot">
 <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot"/>
-</a>
-<a href="https://react.dev/">
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-</a>
-<a href="https://www.python.org/">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-</a>
-<a href="https://www.mongodb.com/">
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+
+<br/><br/>
+
+<!-- Portfolio -->
+<a href="https://github.com/vishnup2003">
+  <img src="https://img.shields.io/badge/GitHub-Explore_My_Projects-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="Explore GitHub projects"/>
 </a>
 
+<br/><br/>
+
+<!-- Social Links -->
+<a href="https://github.com/vishnup2003">
+  <img src="https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="https://www.linkedin.com/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+<br/><br/>
+
+<!-- Profile Views -->
+<img src="https://komarev.com/ghpvc/?username=vishnup2003&style=for-the-badge&color=0891B2&label=PROFILE+VIEWS" alt="Profile views"/>
+
 </div>
+
 ---
 
 ## 👨‍💻 About Me
