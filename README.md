@@ -53,25 +53,48 @@
 ## 👨‍💻 About Me
 
 ```java
-public class VishnuPathak {
 
-    String role = "Aspiring Software Engineer";
+public class VishnuShankarPathak {
+
+    String role = "Java Full Stack Developer";
+
     String college = "ABES Engineering College";
     String degree = "B.Tech CSE (AI & ML)";
 
-    String[] skills = {
-        "Java", "Spring Boot", "REST APIs",
-        "React", "MongoDB", "Python", "Machine Learning"
+    String[] coreSkills = {
+        "Core Java",
+        "Object-Oriented Programming",
+        "Collections Framework",
+        "Exception Handling",
+        "Java 8 Streams",
+        "Data Structures & Algorithms"
+    };
+
+    String[] backendTechnologies = {
+        "Spring Boot",
+        "Spring Framework",
+        "REST APIs",
+        "Hibernate / JPA",
+        "MongoDB",
+        "MySQL"
+    };
+
+    String[] frontendSkills = {
+        "HTML", "CSS", "JavaScript", "React"
     };
 
     String[] currentlyLearning = {
-        "Data Structures & Algorithms",
-        "Backend Development",
-        "AI/ML"
+        "Advanced Java",
+        "Spring Boot & Microservices",
+        "System Design",
+        "Problem Solving"
     };
 
-    String goal = "Build scalable applications and grow as a developer";
+    String goal =
+        "Build robust, scalable Java Full stack applications " +
+        "and grow as a Software Engineer";
 }
+
 ```
 
 - 🎓 B.Tech CSE (AI & ML) student at ABES Engineering College.
