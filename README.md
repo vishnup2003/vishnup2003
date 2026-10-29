@@ -21,9 +21,7 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-
 <br/><br/>
-
 <!-- 🌐 Portfolio Website -->
 <a href="https://portfolio-vishnup2003.vercel.app/">
   <img src="https://img.shields.io/badge/PORTFOLIO-Visit%20My%20Website-10B981?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit my portfolio"/>
@@ -36,9 +34,7 @@
 <a href="https://www.linkedin.com/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-
 <br/><br/>
-
 <!-- 👀 Profile Views -->
 <img src="https://komarev.com/ghpvc/?username=vishnup2003&style=for-the-badge&color=0891B2&label=PROFILE+VIEWS" alt="Profile views"/>
 
