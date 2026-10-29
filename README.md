@@ -2,10 +2,10 @@
 <div align="center">
 
 <!-- 🌌 Animated Gradient Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:164E63,100:7C3AED&height=210&section=header&text=Vishnu%20Shankar%20Pathak&fontSize=43&fontColor=FFFFFF&animation=twinkling&fontAlignY=35&desc=Java%20Full%20Stack%20Developer%20%7C%20Spring%20Boot%20%7C%20React&descAlignY=55&descSize=19" width="100%" alt="Vishnu Shankar Pathak header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:164E63,100:7C3AED&height=210&section=header&text=Vishnu%20Shankar%20Pathak&fontSize=43&fontColor=FFFFFF&animation=twinkling&fontAlignY=35&desc=Java%20%7C%20Spring%20Boot%20%7C%20React&descAlignY=55&descSize=19" width="100%" alt="Vishnu Shankar Pathak header"/>
 
 <!-- ✨ Animated Typing Text -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=C4B5FD&center=true&vCenter=true&width=800&height=55&lines=Java+Full+Stack+Developer+%F0%9F%9A%80;Building+REST+APIs+with+Spring+Boot;Creating+Interactive+UIs+with+React;Java+%7C+Spring+Boot+%7C+React+%7C+MongoDB;Exploring+Artificial+Intelligence+%26+ML+%F0%9F%A4%96;Always+Learning.+Always+Building.+%F0%9F%92%BB" alt="Animated typing introduction"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=C4B5FD&center=true&vCenter=true&width=800&height=55&lines=Java+Full+Stack+Developer+%F0%9F%9A%80;Java+%7C+Spring+Boot+%7C+React+%7C+MongoDB;Building+REST+APIs+with+Spring+Boot;Creating+Interactive+UIs+with+React;Exploring+Artificial+Intelligence+%26+ML+%F0%9F%A4%96;Always+Learning.+Always+Building.+%F0%9F%92%BB" alt="Animated typing introduction"/>
 
 <br/>
 
