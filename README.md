@@ -187,6 +187,7 @@ Hands-on practice with Java and Spring fundamentals through training projects.
 ---
 
 
+
 ## 📊 GitHub Statistics
 
 <div align="center">
@@ -197,9 +198,7 @@ Hands-on practice with Java and Spring fundamentals through training projects.
 <br/><br/>
 
 <!-- Most Used Languages -->
-
-<!-- Most Used Languages -->
-<img src="https://ghstats.dev/api/card?username=vishnup2003&theme=tokyonight&layout=compact&max_langs=8" width="70%" alt="Vishnu's Most Used Languages"/>
+<img src="https://ghstats.dev/api/langs?username=vishnup2003&theme=tokyonight&layout=compact&max_langs=8" width="70%" alt="Vishnu's Most Used Languages"/>
 
 <br/><br/>
 
@@ -207,6 +206,7 @@ Hands-on practice with Java and Spring fundamentals through training projects.
 <img src="https://streak-stats.demolab.com/?user=vishnup2003&theme=tokyonight&hide_border=true" width="70%" alt="Vishnu's GitHub Contribution Streak"/>
 
 </div>
+
 
 
 ---
