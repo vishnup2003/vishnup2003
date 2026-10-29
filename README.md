@@ -194,29 +194,24 @@ Hands-on practice with Java and Spring fundamentals through training projects.
 
 <!-- GitHub Statistics -->
 <img src="https://ghstats.dev/api/card?username=vishnup2003&theme=tokyonight" width="70%" alt="Vishnu's GitHub Statistics"/>
-
 <br/><br/>
-
 <!-- Most Used Languages -->
 <img src="https://ghstats.dev/api/langs?username=vishnup2003&theme=tokyonight&layout=compact&max_langs=8" width="70%" alt="Vishnu's Most Used Languages"/>
-
 <br/><br/>
-
 <!-- GitHub Contribution Streak -->
 <img src="https://streak-stats.demolab.com/?user=vishnup2003&theme=tokyonight&hide_border=true" width="70%" alt="Vishnu's GitHub Contribution Streak"/>
 
 </div>
 
-
-
 ---
+
 
 ## 🎓 Certifications & Learning
 
-• AWS Cloud Practitioner Essentials– AWS– Jan 2025
-• AWS Academy Graduate: Introduction to Cloud– Semester 1– AWS Academy– Jan 2025
-• Yuva AI for All– NASSCOM FutureSkills Prime– Dec 2025
-• Campus Ambassador BECon’26 IIT DELHI
+- AWS Cloud Practitioner Essentials – AWS – Jan 2025
+- AWS Academy Graduate: Introduction to Cloud – Semester 1 – AWS Academy – Jan 2025
+- Yuva AI for All – NASSCOM FutureSkills Prime – Dec 2025
+- Campus Ambassador – BECon’26, IIT Delhi
 
 ---
 
