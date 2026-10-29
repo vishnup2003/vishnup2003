@@ -2,10 +2,10 @@
 <div align="center">
 
 <!-- 🌌 Animated Gradient Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:164E63,100:7C3AED&height=210&section=header&text=Vishnu%20Shankar%20Pathak&fontSize=43&fontColor=FFFFFF&animation=twinkling&fontAlignY=35&desc=Java%20Developer%20%7C%20Spring%20Boot%20%7C%20AI%2FML&descAlignY=55&descSize=19" width="100%" alt="Vishnu Shankar Pathak header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:164E63,100:7C3AED&height=210&section=header&text=Vishnu%20Shankar%20Pathak&fontSize=43&fontColor=FFFFFF&animation=twinkling&fontAlignY=35&desc=Java%20Full%20Stack%20Developer%20%7C%20Spring%20Boot%20%7C%20React&descAlignY=55&descSize=19" width="100%" alt="Vishnu Shankar Pathak header"/>
 
 <!-- ✨ Animated Typing Text -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=C4B5FD&center=true&vCenter=true&width=800&height=55&lines=Java+%26+Spring+Boot+Developer+%F0%9F%9A%80;Building+REST+APIs+%26+Backend+Applications;Exploring+Artificial+Intelligence+%26+ML+%F0%9F%A4%96;Turning+Ideas+Into+Practical+Projects;Always+Learning.+Always+Building.+%F0%9F%92%BB" alt="Animated typing introduction"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=C4B5FD&center=true&vCenter=true&width=800&height=55&lines=Java+Full+Stack+Developer+%F0%9F%9A%80;Building+REST+APIs+with+Spring+Boot;Creating+Interactive+UIs+with+React;Java+%7C+Spring+Boot+%7C+React+%7C+MongoDB;Exploring+Artificial+Intelligence+%26+ML+%F0%9F%A4%96;Always+Learning.+Always+Building.+%F0%9F%92%BB" alt="Animated typing introduction"/>
 
 <br/>
 
@@ -18,13 +18,16 @@
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
 <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot"/>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
 
 <br/><br/>
 
 <!-- 🌐 Portfolio Website -->
-<a href="https://portfolio-vishnup2003.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-Visit%20My%20Website-10B981?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit my portfolio"/></a>
+<a href="https://portfolio-vishnup2003.vercel.app/">
+  <img src="https://img.shields.io/badge/PORTFOLIO-Visit%20My%20Website-10B981?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit my portfolio"/>
+</a>
 
 <br/><br/>
 
@@ -42,6 +45,7 @@
 <img src="https://komarev.com/ghpvc/?username=vishnup2003&style=for-the-badge&color=0891B2&label=PROFILE+VIEWS" alt="Profile views"/>
 
 </div>
+
 
 
 ---
