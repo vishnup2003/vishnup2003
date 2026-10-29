@@ -24,9 +24,7 @@
 <br/><br/>
 
 <!-- 🌐 Portfolio Website -->
-<a href="https://portfolio-vishnup2003.vercel.app/">
-  <img src="https://img.shields.io/badge/🌐_PORTFOLIO-Visit_My_Website-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit my portfolio"/>
-</a>
+<a href="https://portfolio-vishnup2003.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-Visit%20My%20Website-10B981?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit my portfolio"/></a>
 
 <br/><br/>
 
