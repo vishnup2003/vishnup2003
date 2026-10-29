@@ -26,7 +26,7 @@
 <a href="https://github.com/vishnup2003">
   <img src="https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
-<a href="https://www.linkedin.com/">
+<a href="https://www.linkedin.com/in/java-dsa-vishnu/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <br/><br/>
@@ -223,7 +223,7 @@ Hands-on practice with Java and Spring fundamentals through training projects.
 </a>
 
 <!-- Replace YOUR_LINKEDIN_USERNAME with your actual LinkedIn username -->
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">
+<a href="https://www.linkedin.com/in/java-dsa-vishnu/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
