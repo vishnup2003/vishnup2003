@@ -6,14 +6,10 @@
 
 <!-- ✨ Animated Typing Text -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=C4B5FD&center=true&vCenter=true&width=800&height=55&lines=Java+Full+Stack+Developer+%F0%9F%9A%80;Java+%7C+Spring+Boot+%7C+React+%7C+MongoDB;Building+REST+APIs+with+Spring+Boot;Creating+Interactive+UIs+with+React;Exploring+Artificial+Intelligence+%26+ML+%F0%9F%A4%96;Always+Learning.+Always+Building.+%F0%9F%92%BB" alt="Animated typing introduction"/>
-
 <br/>
-
 <!-- 👤 GitHub Profile Picture -->
 <img src="https://github.com/vishnup2003.png" width="145" alt="Vishnu's GitHub profile picture"/>
-
 <br/><br/>
-
 <!-- 💻 Technology Badges -->
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
 <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot"/>
